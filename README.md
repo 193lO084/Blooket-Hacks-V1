@@ -1,1 +1,2 @@
-Run the gui.exe file on blooket, otherwise it wont work.
+run gui.exe on blooket or it wont work.
+EXTRACT THE FILE BEFORE USING!
