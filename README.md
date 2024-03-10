@@ -1,1 +1,1 @@
-# Blooket-Hacks-V1
+Run the gui.exe file on blooket. 
